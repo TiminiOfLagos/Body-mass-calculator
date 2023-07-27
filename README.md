@@ -10,7 +10,7 @@ Below you will find some information on how to perform common tasks.
 
 ## Folder Structure
 
-After creation, your project should look like this:
+An overview of the file structure:
 
 ```
 BMI-Calculator/
