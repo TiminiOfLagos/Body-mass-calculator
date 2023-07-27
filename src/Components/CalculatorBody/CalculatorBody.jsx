@@ -175,7 +175,6 @@ const CalculatorBody = () => {
 
       <p className="result">Your BMI is: <div className="resultBox">{bmi}</div></p>
       <p className="result">{message}</p>
-      <p className="courtesy">Courtesy: Team C-Drive</p>
     </form>
       <img className="image" src={image} alt="" />
     </div>
